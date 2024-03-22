@@ -23,3 +23,12 @@ The Password Generator is a simple web application that allows users to generate
 4. Click the "Generate Password" button.
 5. Copy the generated password to use it as needed.
 
+## Demo
+
+You can view a live demo of the Password Generator [here](https://aminsouhail.github.io/password-Generator-JS/).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
